@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Elias</h1>
 <h3 align="center">Un apasionado desarrollador con un amor por la tecnología. Mi enfoque principal es el desarrollo Backend, donde he trabajado en multiples proyectos. Siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades. Cuando no estoy programando, me gusta viajar y conocer nuevos lugares. Estoy emocionado por nuevas oportunidades y desafíos en el mundo del desarrollo. ¡Conversemos y hagamos cosas geniales juntos!</h3>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 - 🔭 Actualmente estoy trabajando como **Freelancer**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/eliasvlc](Here)
