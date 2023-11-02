@@ -7,7 +7,7 @@ Un apasionado desarrollador con un amor por la tecnología. Mi enfoque principal
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/eliasvlc](Here)
 
-- 📫 Puedes escribirme a **eliasqv@gmail.com**
+- 📫 Puedes escribirme a **eliasqv.007@gmail.com**
 
 - 📄 Conoce acerca de mis experiencias [https://github.com/eliasvlc](here)
 
