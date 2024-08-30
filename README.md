@@ -1,5 +1,3 @@
-Claro, aquí tienes una versión enfocada en desarrollo de APIs con FastAPI y ciencia y análisis de datos:
-
 <h1 align="center">Hola 👋, soy Elias</h1> Soy un apasionado desarrollador con especialización en **desarrollo de APIs** y **ciencia de datos**. Me encanta crear soluciones eficientes y robustas utilizando **FastAPI** y explorar datos para obtener insights valiosos. Siempre estoy en busca de nuevas formas de aprender y mejorar en estas áreas.
 Cuando no estoy programando, disfruto de viajar y conocer nuevos lugares. Estoy emocionado por nuevas oportunidades y desafíos en el mundo del desarrollo y el análisis de datos.
 
