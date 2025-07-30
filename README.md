@@ -1,13 +1,65 @@
-<h1 align="center">Hola 👋, soy Elias</h1> Soy un apasionado desarrollador con especialización en **desarrollo de APIs** y **ciencia de datos**. Me encanta crear soluciones eficientes y robustas utilizando **FastAPI** y explorar datos para obtener insights valiosos. Siempre estoy en busca de nuevas formas de aprender y mejorar en estas áreas.
-Cuando no estoy programando, disfruto de viajar y conocer nuevos lugares. Estoy emocionado por nuevas oportunidades y desafíos en el mundo del desarrollo y el análisis de datos.
+<h1 align="center">Hola 👋, soy Elias</h1>  
+Soy un desarrollador backend especializado en **Python** y **FastAPI**, con una sólida orientación hacia la **ciencia de datos**. Me apasiona construir APIs limpias, seguras y escalables, así como analizar datos para generar información útil que impulse la toma de decisiones.
+
+Disfruto creando soluciones eficientes para problemas reales, automatizando procesos y aplicando análisis estadísticos y modelos de machine learning cuando es necesario. Siempre estoy en constante aprendizaje, enfocado en mejorar mis habilidades técnicas y aportar valor en cada proyecto.
 
 <center><img src="https://i.pinimg.com/564x/48/80/dc/4880dc7d90bdb3eea9abaddc6622e1ce.jpg" /></center>
-🔭 Actualmente estoy trabajando como Freelancer, especializándome en desarrollo de APIs con FastAPI y análisis de datos.
 
-👨‍💻 Todos mis proyectos están disponibles en mi perfil de GitHub.
+🔭 Actualmente trabajo como **freelancer**, desarrollando proyectos de backend con Python/FastAPI y realizando análisis de datos.
 
-📫 Puedes escribirme a eliasqv.001@gmail.com.
+👨‍💻 Puedes ver mis proyectos en mi perfil de GitHub.
 
-📄 Conoce más sobre mis experiencias en mi perfil de GitHub.
+📫 Escríbeme a **eliasqv.001@gmail.com** si estás interesado en colaborar.
 
-<h3 align="left">Habilidades:</h3> - Desarrollo de APIs con **FastAPI**. - Análisis de datos y ciencia de datos. - Experto en Python para desarrollo backend y análisis. - Conocimiento en bases de datos como MongoDB y MySQL. - Experiencia en la creación de aplicaciones web utilizando **PHP** y **Laravel**. <h3 align="left">Tecnologías:</h3> <p align="left"> <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p> <h3 align="left">Contacta conmigo:</h3> <p align="left"> <a href="https://twitter.com/mitwtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitwtr" height="30" width="40" /></a> <a href="https://linkedin.com/in/milkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milkn" height="30" width="40" /></a> </p> <h3 align="center">¡Estoy emocionado por seguir desarrollando APIs y explorando el mundo de los datos! Si estás interesado en colaborar o tienes alguna pregunta, ¡no dudes en contactarme!</h3>
+📄 Más información sobre mi experiencia y habilidades está disponible en mi perfil de GitHub.
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+- Desarrollo backend con **Python** y **FastAPI**  
+- Creación de APIs RESTful y manejo de autenticación JWT y cookies  
+- Consultas avanzadas y diseño de modelos en **PostgreSQL**, **MySQL** y **MongoDB**  
+- Limpieza, transformación y análisis de datos con **pandas**, **NumPy**, **SQL**  
+- Visualización de datos con **Matplotlib**, **Seaborn**, **Plotly**  
+- Aplicación de técnicas de machine learning usando **scikit-learn**  
+- Documentación de APIs con **Swagger/OpenAPI**
+
+---
+
+### 💻 Tecnologías que utilizo
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🤝 Contacto
+
+<p align="left">
+  <a href="https://twitter.com/mitwtr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitwtr" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/milkn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milkn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">¡Estoy listo para colaborar en proyectos de backend y ciencia de datos! Si tienes alguna idea o necesitas ayuda en estas áreas, no dudes en contactarme.</h3>
